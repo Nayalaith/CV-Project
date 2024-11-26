@@ -81,7 +81,7 @@ These changes helped the CNN achieve a breakthrough in performance, reaching a t
 
 ---
 
-## Usage of the Notebook
+## Usage of the Models
 
 A separate testing notebook was created to evaluate the performance of the three models. This notebook is designed to:
 

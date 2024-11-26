@@ -81,5 +81,18 @@ These changes helped the CNN achieve a breakthrough in performance, reaching a t
 
 ---
 
+## Usage of the Notebook
+
+A separate testing notebook was created to evaluate the performance of the three models. This notebook is designed to:
+
+1. Load the testing dataset.
+2. Load the trained models: Auto-Encoder (AE), Variational Auto-Encoder (VAE), and Convolutional Neural Network (CNN).
+3. Run the testing dataset through each model to obtain predictions.
+4. Present a selection of test examples along with insights into the model performances.
+
+You can use notebook **testing_models.ipynb** located in the **models** directory of this repository. You can also find the trained models at the following drive link: [Insert your drive link here].
+
+---
+
 ## Conclusion
 This project demonstrated the efficacy of CNNs in classifying Sudoku and non-Sudoku images, particularly when combined with a larger and more diverse dataset. Despite initial struggles, the CNN significantly outperformed AE and VAE architectures, establishing its robustness and capacity for generalization.

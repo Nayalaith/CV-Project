@@ -1,5 +1,4 @@
 # Sudoku Classification Project
-## Introduction
 
 ## Introduction
 

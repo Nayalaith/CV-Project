@@ -1,4 +1,11 @@
 # Sudoku Classification Project
+## Introduction
+
+## Introduction
+
+This project aims to explore the learning capabilities of neural network-based models, specifically in understanding complex positional relationships. While CNNs can analyze individual images, we want to test whether a neural network can infer relationships when images are presented together, as in a Sudoku puzzle. Sudoku requires the understanding that each number must appear only once in every row and column. Instead of relying on separate algorithms, we aim to determine if the neural network can learn this concept on its own.
+
+---
 
 ## Dataset
 The dataset for this project is available on Kaggle: [Sudoku Images Based on MNIST](https://www.kaggle.com/datasets/laithnayal/sudoku-images-based-on-mnist). It contains the following files:

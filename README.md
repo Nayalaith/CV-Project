@@ -84,7 +84,7 @@ These changes helped the CNN achieve a breakthrough in performance, reaching a t
 ## Usage
 
 ### 1. Use the Pre-trained Models
-You can find the trained models at the following drive link: [Insert your drive link here].
+You can find the trained models at the following drive link: [Trained Models](https://drive.google.com/drive/folders/1a4v-U5MlpuSummM3fpW5faslolUae_ls?usp=sharing).
 
 For testing:
 

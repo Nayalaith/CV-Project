@@ -111,4 +111,4 @@ For training your own models, the following notebooks are available in the **cod
 
 
 ## Conclusion
-This project demonstrated the efficacy of CNNs in classifying Sudoku and non-Sudoku images, particularly when combined with a larger and more diverse dataset. Despite initial struggles, the CNN significantly outperformed AE and VAE architectures, establishing its robustness and capacity for generalization.
+This project demonstrated the efficiancy of CNNs in classifying Sudoku and non-Sudoku images, particularly when combined with a larger and more diverse dataset. Despite initial struggles, the CNN significantly outperformed AE and VAE architectures, establishing its robustness and capacity for generalization.
